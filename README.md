@@ -2,7 +2,8 @@
 
 ![t](https://jrwren.xmtp.net/t.png)
 
-- 🔭 I'm currently working on Webex Cloud Platform at Cisco. Previously threatgrid: https://www.cisco.com/c/en/us/products/security/threat-grid/index.html
+- 🔭 I'm currently working on security things at slack.
+- 👴 I previously working on Webex Cloud Platform at Cisco. Previously threatgrid: https://www.cisco.com/c/en/us/products/security/threat-grid/index.html
 - 🌱 I'm currently learning, things. I don't know. I'm always learning things, but I don't keep track of what they are. Maybe I should.
 - 💬 Ask me about anything.
 - 📫 You can reach me on twitter at jayrwren, my DMs are usually open. More ways to contact me are at http://jrwren.wrenfam.com
