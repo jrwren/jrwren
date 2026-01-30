@@ -6,7 +6,7 @@
 - 👴 I previously worked on Webex Cloud Platform at Cisco. Previously threatgrid: https://www.cisco.com/c/en/us/products/security/threat-grid/index.html
 - 🌱 I'm currently learning, things. I don't know. I'm always learning things, but I don't keep track of what they are. Maybe I should.
 - 💬 Ask me about anything.
-- 📫 You can reach me on twitter at jayrwren, my DMs are usually open. More ways to contact me are at http://jrwren.wrenfam.com
+- 📫 You can reach me on bsky at <a href="https://bsky.app/profile/jrwren.dev">jrwren.dev</a>, my DMs are open. More ways to contact me are at http://jrwren.dev
 - 😄 Pronouns: he/him and I'm known to answer to hey you, and hey asshole.
 - ⚡ Fun fact: I've baked all my own bread for 20+ years.
 
